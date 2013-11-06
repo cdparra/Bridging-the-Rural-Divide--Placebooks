@@ -1,4 +1,3 @@
-
 PlacebooksREM
 ===
 
@@ -13,9 +12,7 @@ All code licensed under the AGPLv3, except 3rd party libraries which are
 distributed under their individual licences.
 
 
-Bridging the Rural Divide (part of Horizon Digital Economy Research)
-===
-This is the PlaceBooks web interface and server backend
+The original project is **Bridging the Rural Divide** (part of Horizon Digital Economy Research), who provided a web interface and server backend for creating books around rural communities (i.e., the PlaceBooks) 
 
 
 Original Author
