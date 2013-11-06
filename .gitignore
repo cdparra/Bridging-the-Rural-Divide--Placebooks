@@ -15,3 +15,4 @@ placebooks-webapp/src/personal-placebooks.properties
 placebooks-webapp/src/server-placebooks.properties
 placebooks-webapp/src/dev-server-placebooks.properties
 placebooks-webapp/build
+.DS_Store
